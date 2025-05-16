@@ -1,3 +1,4 @@
+#### APPLE MUSIC PLEASE LEARN SMTH FROM SPOTIFY
 # emogenerator.py
 
 ## why this exists
