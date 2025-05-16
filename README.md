@@ -86,3 +86,6 @@ anchor --- novo amor
 one run later → a real spotify playlist under your name.
 
 ---
+
+## todo
+- [ ] add mood-tagging with the ultimate power of nlp
